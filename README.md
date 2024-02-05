@@ -1,8 +1,27 @@
-# React + Vite
+# Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app built with Tailwind CSS that displays static weekly expense data as a bar graph. Hovering over each bar reveals the respective expense for that day.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Weekly Expense Bar Graph:**
+   - Displays static weekly expense data as a bar graph.
+
+2. **Expense Details on Hover:**
+   - Hovering over each bar reveals the respective expense for that day.
+
+3. **Responsive Design:**
+   - The app is designed to be responsive for a seamless experience on various devices.
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/expense-tracker-app.git
+
